@@ -1,0 +1,15 @@
+/workspaces/animals/obj/Debug/net10.0/animals.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/animals/obj/Debug/net10.0/animals.AssemblyInfoInputs.cache
+/workspaces/animals/obj/Debug/net10.0/animals.AssemblyInfo.cs
+/workspaces/animals/obj/Debug/net10.0/animals.csproj.CoreCompileInputs.cache
+/workspaces/animals/obj/Debug/net10.0/animals.sourcelink.json
+/workspaces/animals/bin/Debug/net10.0/animals
+/workspaces/animals/bin/Debug/net10.0/animals.deps.json
+/workspaces/animals/bin/Debug/net10.0/animals.runtimeconfig.json
+/workspaces/animals/bin/Debug/net10.0/animals.dll
+/workspaces/animals/bin/Debug/net10.0/animals.pdb
+/workspaces/animals/obj/Debug/net10.0/animals.dll
+/workspaces/animals/obj/Debug/net10.0/refint/animals.dll
+/workspaces/animals/obj/Debug/net10.0/animals.pdb
+/workspaces/animals/obj/Debug/net10.0/animals.genruntimeconfig.cache
+/workspaces/animals/obj/Debug/net10.0/ref/animals.dll
